@@ -1,0 +1,5 @@
+// So
+public class SplitConsecutiveSubsequenceArray {
+
+
+}
